@@ -7,7 +7,7 @@
   <h3 align="center">silly-convert</h3>
 
   <p align="center">
-    silly-convert is a user-friendly Python application designed to convert GIF files into high-quality WebM format effortlessly.
+    silly-convert is a user-friendly Python application designed to mass convert GIF files into high-quality WebM format effortlessly.
     <br/>
     <br/>
   </p>
