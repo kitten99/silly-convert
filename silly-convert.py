@@ -35,6 +35,8 @@ def select_folder():
 window = tk.Tk()
 window.title("silly-convert")
 
+window.resizable(0, 0)
+
 logo_image_path = os.path.join(script_directory, "logo.png")
 logo_image = tk.PhotoImage(file=logo_image_path)
 
