@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ```sh
 python silly-convert.py
 ```
-
+! **Make sure you have FFmpeg installed** !
 
 ## Usage
 
